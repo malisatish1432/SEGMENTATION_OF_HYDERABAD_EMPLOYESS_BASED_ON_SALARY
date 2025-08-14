@@ -52,7 +52,7 @@
 ### 🔸Feature Engineering: Label Encoding, One-Hot Encoding, Variance Threshold, PCA
 ### 🔸Environment: Jupyter Notebook
 # 📜 Conclusion :
-### 🔸Using K-Means clustering, employees were effectively segmented into nine salary-based groups, enabling:
+### 🔸Using K-Means clustering, employees were effectively segmented into Nine salary-based groups, enabling:
 ### 🔸Better hiring strategies
 ### 🔸Fairer salary decisions
 ### 🔸Targeted retention programs
